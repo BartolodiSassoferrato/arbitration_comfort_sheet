@@ -14,7 +14,7 @@ There are many other apps to emulate arbitrators´ decision-making but only refe
 This project is grounded in Scandinavian legal realism and the US philosophy of economic analysis, which posits that 
 adjudicators decide cases not on their merits but out of self-interest, adhering to Nash game theory rather than the law.
 
-![global trade hub](/global_hub_of_trade)
+![tech](/tech.gif)
 
 ## Whose problems does this project address? 
 
