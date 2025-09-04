@@ -30,6 +30,8 @@ interest in complex scenarios like international arbitration.
 
 This is an ongoing and incrementally serious problem worldwide.
 
+![trade](/trade.gif)
+
 ## What is your personal motivation?
 
 My hard experience as a litigator gave me the idea of this unexplored path
